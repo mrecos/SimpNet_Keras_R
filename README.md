@@ -39,6 +39,7 @@ For the original results of SimpNet in its native Caffe implementation, see the 
 
 
 ### CIFAR10 version
+CIFAR10 results by Hasanpour et al. 2018 are `95.89`, I will continue to work on this one.
 | Epochs:        | 50         |
 |----------------|------------|
 | Test Loss:     | 0.5701714  |
