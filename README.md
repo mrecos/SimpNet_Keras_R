@@ -31,6 +31,7 @@ So far I have translated:
 For the original results of SimpNet in its native Caffe implementation, see the [article](https://arxiv.org/abs/1802.06205) and [GH repo](https://github.com/Coderx7/SimpNet). The results below are my translation and may not be fully reflective of the native implementation. I will keep trying to match the published results.
 
 ### MNIST version
+
 | Epochs:        | 10         |
 |----------------|------------|
 | Test Loss:     | 0.01990014 |
@@ -40,6 +41,7 @@ For the original results of SimpNet in its native Caffe implementation, see the 
 
 ### CIFAR10 version
 CIFAR10 results by Hasanpour et al. 2018 are `95.89`, I will continue to work on this one.
+
 | Epochs:        | 50         |
 |----------------|------------|
 | Test Loss:     | 0.5701714  |
