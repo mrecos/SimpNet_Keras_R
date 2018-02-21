@@ -15,7 +15,7 @@ From the author's abstract:
 
 ### Schematic SimpNet architecture (Hasanpour et al. 2018)
 
-![]("https://raw.githubusercontent.com/Coderx7/SimpNet/master/SimpNetV2/images/Arch2_01.jpg")
+![Schematic SimpNet architecture (Hasanpour et al. 2018)](https://raw.githubusercontent.com/Coderx7/SimpNet/master/SimpNetV2/images/Arch2_01.jpg)
    
 ## Keras Version
 This repo is an attempt to translate the SimpNet architecture into the Keras API via R and the [Rstudio flavor of Keras](https://keras.rstudio.com/).
@@ -46,5 +46,5 @@ For the original results of SimpNet in its native Caffe implementation, see the 
 |                |            |
 
 ### Training history for CIFAR10
-![]("https://github.com/mrecos/SimpNet_Keras_R/blob/master/images/CIFAR10_50_epochs.png?raw=true")
+![Training history for CIFAR10]("://github.com/mrecos/SimpNet_Keras_R/blob/master/images/CIFAR10_50_epochs.png?raw=true)
 
