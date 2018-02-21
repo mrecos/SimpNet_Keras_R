@@ -9,9 +9,11 @@ SimpNet is a deep convolutional neural network architecture reported on in:
 
 This is a link to the original [SimpNet Github repository](https://github.com/Coderx7/SimpNet)
 From the author's abstract:
+
    We empirically show that SimpNet provides a good trade-off between the computation/memory efficiency and the accuracy solely based on these primitive but crucial principles. SimpNet outperforms the deeper and more complex architectures such as VGGNet, ResNet, WideResidualNet \etc, on several well-known benchmarks, while having 2 to 25 times fewer number of parameters and operations. We obtain state-of-the-art results (in terms of a balance between the accuracy and the number of involved parameters) on standard data sets, such as CIFAR10, CIFAR100, MNIST and SVHN.
 
 ### Schematic SimpNet architecture (Hasanpour et al. 2018)
+
 ![]("https://github.com/Coderx7/SimpNet/blob/master/SimpNetV2/images/Arch2_01.jpg")
    
 ## Keras Version
@@ -43,5 +45,5 @@ For the original results of SimpNet in its native Caffe implementation, see the 
 |                |            |
 
 ### Training history for CIFAR10
-![]("/images/CIFAR10_50_epochs.png")
+![]("images/CIFAR10_50_epochs.png")
 
