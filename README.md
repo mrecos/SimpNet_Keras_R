@@ -46,5 +46,5 @@ For the original results of SimpNet in its native Caffe implementation, see the 
 |                |            |
 
 ### Training history for CIFAR10
-![Training history for CIFAR10]("://github.com/mrecos/SimpNet_Keras_R/blob/master/images/CIFAR10_50_epochs.png?raw=true)
+![Training history for CIFAR10](http://github.com/mrecos/SimpNet_Keras_R/blob/master/images/CIFAR10_50_epochs.png?raw=true)
 
